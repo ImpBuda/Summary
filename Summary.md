@@ -1,9 +1,9 @@
 # Окунев Юрий Александрович
 
-**Телефон:** +375292471395
-**Электронная почта:** [jura-okunev@yandex.ru](mailto:jura-okunev@yandex.ru)
-**Telegram:** [@YurSans](https://t.me/YurSans) 
-**GitHub:** [ImpBuda](https://github.com/ImpBuda)
++ **Телефон:** +375292471395
++ **Электронная почта:** [jura-okunev@yandex.ru](mailto:jura-okunev@yandex.ru)
++ **Telegram:** [@YurSans](https://t.me/YurSans) 
++ **GitHub:** [ImpBuda](https://github.com/ImpBuda)
 
 ## Цель
 
